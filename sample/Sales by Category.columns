@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"CategoryID","STRING","0","0","0"
+"CategoryName","STRING","0","0","0"
+"ProductName","STRING","0","0","0"
+"ProductSales","STRING","0","0","0"

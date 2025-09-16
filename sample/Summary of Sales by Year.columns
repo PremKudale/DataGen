@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"ShippedDate","STRING","0","0","0"
+"OrderID","INTEGER","5","5","0"
+"Subtotal","DECIMAL","9","4","4"

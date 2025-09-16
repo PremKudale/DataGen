@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"OrderID","INTEGER","5","5","0"
+"ProductID","INTEGER","2","2","0"
+"UnitPrice","DECIMAL","5","2","2"
+"Quantity","INTEGER","2","2","0"
+"Discount","DECIMAL","4","1","2"

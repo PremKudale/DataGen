@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"CustomerID","STRING","0","0","0"
+"CompanyName","STRING","0","0","0"
+"City","STRING","0","0","0"
+"Country","STRING","0","0","0"

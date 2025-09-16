@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"SaleAmount","STRING","0","0","0"
+"OrderID","STRING","0","0","0"
+"CompanyName","STRING","0","0","0"
+"ShippedDate","STRING","0","0","0"

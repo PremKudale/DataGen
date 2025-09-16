@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"EmployeeID","INTEGER","1","1","0"
+"TerritoryID","INTEGER","5","5","0"

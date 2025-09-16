@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"ProductName","STRING","31","0","0"
+"UnitPrice","DECIMAL","6","3","2"

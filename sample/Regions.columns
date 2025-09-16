@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"RegionID","INTEGER","1","1","0"
+"RegionDescription","STRING","8","0","0"

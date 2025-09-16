@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"CategoryName","STRING","14","0","0"
+"ProductName","STRING","32","0","0"
+"QuantityPerUnit","STRING","20","0","0"
+"UnitsInStock","INTEGER","3","3","0"
+"Discontinued","INTEGER","1","1","0"

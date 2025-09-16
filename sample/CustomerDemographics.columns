@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"CustomerTypeID","STRING","0","0","0"
+"CustomerDesc","STRING","0","0","0"

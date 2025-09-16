@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"TerritoryID","INTEGER","5","5","0"
+"TerritoryDescription","STRING","16","0","0"
+"RegionID","INTEGER","1","1","0"

@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"ProductID","INTEGER","2","2","0"
+"ProductName","STRING","32","0","0"
